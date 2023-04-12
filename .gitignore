@@ -1,0 +1,6 @@
+/.idea
+/deployments
+/artifacts
+/cache
+/.env
+.DS_Store
